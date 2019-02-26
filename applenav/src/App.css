@@ -46,6 +46,7 @@
 }
 
 .sub-category img {
-  max-width: 30px;
+  resize: both;
+  max-width: 35px;
   margin: auto;
 }

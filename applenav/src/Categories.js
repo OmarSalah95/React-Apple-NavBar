@@ -60,7 +60,7 @@ const Categories = [
         {
           id: 10,
           subCategoryImage:
-            "https://www.apple.com/v/watch/home/k/images/watch_nav_compare_large.svg",
+          "https://www.apple.com/v/mac/home/ac/images/familybrowser/mac_comp_large.svg",
           subCategoryName: "Compare"
         }
       ]
@@ -102,7 +102,7 @@ const Categories = [
         {
           id: 6,
           subCategoryImage:
-            "https://www.apple.com/v/watch/home/k/images/watch_nav_compare_large.svg",
+            "https://www.apple.com/v/ipad/home/ai/images/home/familybrowser/ipad_comp_large.svg",
           subCategoryName: "Compare"
         }
       ]
@@ -156,7 +156,7 @@ const Categories = [
         {
           id: 8,
           subCategoryImage:
-            "https://www.apple.com/v/watch/home/k/images/watch_nav_compare_large.svg",
+            "https://www.apple.com/v/iphone/home/y/images/chapternav/compare_large.svg", 
           subCategoryName: "Compare"
         }
       ]
@@ -246,7 +246,7 @@ const Categories = [
         {
           id: 5,
           subCategoryImage:
-          "https://www.apple.com/v/watch/home/k/images/watch_nav_compare_large.svg",
+          "https://www.apple.com/v/tv/home/e/images/home/compare_light_large.svg",
           subCategoryName: "Compare"
         }
       ]
