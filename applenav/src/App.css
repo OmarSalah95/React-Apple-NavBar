@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.nav-header {
+  background: #0A0A0A;
+  color: white;
+  height: 45px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-header * {
+  font-size: .9rem;
+  color: white;
+  text-decoration: none;
+}
+
+.nav-header .fa-apple {
+  font-size: 20px;
+}
+
+.nav-links{
+  width: 39%;
+  display: flex;
+  justify-content: space-between;
+  margin: 12px auto;
+}
+
+.sub-header {
+  display: flex;
+  justify-content: center;
+  background: #F6F6F6;
+}
+
+
+.sub-header * {
+  padding: 0 10px 5px;
+  font-size: .8rem;
+}
+
+.sub-category {
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+}
+
+.sub-category img {
+  resize: both;
+  max-width: 35px;
+  margin: auto;
+}
